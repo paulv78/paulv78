@@ -19,6 +19,10 @@ Ensuite, vous deverez renseigner pour chacune d'elle:
 A l'aide de ces données, le programme modifiera pour chaque phase la température d’impression de manière variable entre la température initiale et la température finale
 De la même façon, la vitesse d'impression sera modifiée de manière variable entre la vitesse initiale et la vitesse finale
 
+FONCTION 3:
+
+Vous pourrez sur ou sous extruder d’un certain pourcentage de manière variable la quantité de matériaux extrudé (volume) linéaire en fonction de la vitesse d’impression et de la température dans chaque phase de –X % (To↓ et vitesse↑) à +X% (To ↑ et vitesse ↓) de sur-extrusion.
+
 FONCTION 4:
 
 Il sera également possible pour vous de décaler la position de la pièce en X et en Y sur le lit
