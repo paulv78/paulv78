@@ -10,11 +10,11 @@ Tout d'abord , vous sera demandé de rentrer le nombre de phases que vous souhai
 FONCTION 1 & 2:
 
 Ensuite, vous deverez renseigner pour chacune d'elle:
-. La température initiale
-. La température finale
-. La vitesse initiale
-. La vitesse finale
-. Le pourcentage de couche qu'elle représente (leur somme doit valoir 100)
+1. La température initiale
+2. La température finale
+3. La vitesse initiale
+4. La vitesse finale
+5. Le pourcentage de couche qu'elle représente (leur somme doit valoir 100)
 
 A l'aide de ces données, le programme modifiera pour chaque phase la température d’impression de manière variable entre la température initiale et la température finale
 De la même façon, la vitesse d'impression sera modifiée de manière variable entre la vitesse initiale et la vitesse finale
